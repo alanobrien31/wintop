@@ -4,6 +4,8 @@ A Linux `top` inspired process and system monitoring utility for Microsoft Windo
 
 WinTop provides a continuously refreshing view of system activity, process statistics, CPU usage, memory consumption, and other operational metrics directly from the console without requiring any additional software.
 
+Note: This is intended for a real console, PS5 or PS7 versions, not the PowerShell ISE. The interactive [Console] keyboard API isn't suitable for the ISE.
+
 ---
 
 ## Features
