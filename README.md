@@ -40,10 +40,10 @@ Note: This is intended for a real console, PS5 or PS7 versions, not the PowerShe
 
 ## Requirements
 
-* Windows PowerShell 5.1 or later
+* Windows PowerShell 5.1 - Use the wintop-ps5.ps1 version
 * PowerShell 7.x supported
 * Windows 10 / Windows 11
-* Windows Server 2016+
+* Windows Server 2016+ -  - Use the wintop-ps5.ps1 version if PS7 is not installed on the server
 * Administrator privileges recommended for full visibility of all processes
 
 ---
