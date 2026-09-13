@@ -12,9 +12,6 @@
 # It provides a live refreshing view of process, memory, CPU and system activity
 # directly from PowerShell.
 #
-# Note: Wintop will run in Powershell 5 but none of the commands/filters work right now, 
-# for PS7+ all commands will work as normal. For the next wersion i will make a seperate version to use on Powershell 5. 
-#
 # Keyboard Commands:
 # ------------------
 # Q    - Quit
