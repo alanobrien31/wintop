@@ -111,7 +111,8 @@ Handles: 152341
 
 Memory: 18,452 MB used / 32,768 MB total
 ```
-<img width="978" height="827" alt="image" src="https://github.com/user-attachments/assets/9143e042-99b3-4870-b62f-884859e90f4b" />
+<img width="848" height="797" alt="image" src="https://github.com/user-attachments/assets/785c4fd2-6d56-4f1e-9d7e-7d0df5021631" />
+
 
 ---
 
